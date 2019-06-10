@@ -13,7 +13,7 @@ class Brand extends Component {
     const { match: { params } } = this.props;
     //const brand = (await axios.get(`http://localhost:8081/${params.brandId}`)).data;
     //Hard code to set information of sneaker
-    const brand = {"name":"Vans","brief":"Vans brief","models":["model 01","model 02","model 03"]};
+    const brand = {"name":"Vans","brief":"It’s a place where imagination lets loose over concrete bowls, art installations, workshops and concert stages, inspiring every person who runs, rolls, or stomps through its door. Located in Brooklyn, New York, Chicago, Illinois and Waterloo, London, as well as pop-ups around the world, the House of Vans is home to the creativity that moves us.","models":["model 01","model 02","model 03"]};
 
     this.setState({
         brand,
@@ -27,9 +27,10 @@ class Brand extends Component {
       <div className="container">
         <div className="row">
           <div className="jumbotron col-12">
-            <h1 className="display-3">{brand.name}</h1>
+            <h4 className="display-3">{brand.name}</h4>
+            <hr className="my-4" />  
             <p className="lead">{brand.brief}</p>
-            <hr className="my-4" />           
+                     
           </div>
         </div>
       </div>
