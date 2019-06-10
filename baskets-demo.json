@@ -1,0 +1,1247 @@
+[
+  {
+    "id": "01",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/06/2018",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "20/06/2018",
+    "editOfTheResource": "",
+    "photo": ""
+  },
+  {
+    "id": "02",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "03",
+    "name": "CHAUSSURE ADIEASE",
+    "color": "blue",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "04",
+    "name": "CHAUSSURE ADIEASE",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "05",
+    "name": "CHAUSSURE ADIEASE",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "06",
+    "name": "CHAUSSURE SEELEY",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "07",
+    "name": "CHAUSSURE SEELEY",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "08",
+    "name": "CHAUSSURE SEELEY",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "09",
+    "name": "CHAUSSURE SEELEY",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "10",
+    "name": "CHAUSSURE SEELEY",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "11",
+    "name": "CHAUSSURE SEELEY",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "12",
+    "name": "CHAUSSURE SEELEY",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "13",
+    "name": "CHAUSSURE SEELEY",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "14",
+    "name": "CHAUSSURE SEELEY",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "15",
+    "name": "CHAUSSURE SEELEY",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "16",
+    "name": "CHAUSSURE SEELEY",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "17",
+    "name": "CHAUSSURE SEELEY",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "18",
+    "name": "CHAUSSURE SEELEY",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "19",
+    "name": "CHAUSSURE SEELEY",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "20",
+    "name": "CHAUSSURE STAN SMITH",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "21",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "22",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "23",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "24",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "25",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "26",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "27",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "28",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "29",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "white",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "30",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "white",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "31",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "32",
+    "name": "CHAUSSURE STAN SMITH",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "33",
+    "name": "CHAUSSURE STAN SMITH",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "34",
+    "name": "CHAUSSURE STAN SMITH",
+    "color": "black",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "35",
+    "name": "CHAUSSURE STAN SMITH",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "36",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "black",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "37",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "38",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "white",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "39",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "40",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "white",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "41",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "42",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "43",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "44",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "white",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "45",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "46",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "black",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "47",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "48",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "green",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "49",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "green",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  },
+  {
+    "id": "50",
+    "name": "Vans Men's Suede Sk-8 Hi Shoe",
+    "color": "red",
+    "brand": {
+      "name": "Vans",
+      "brief": "Vans brief",
+      "models": [
+        "model 01",
+        "model 02",
+        "model 03"
+      ]
+    },
+    "price": 24.99,
+    "dateOfRelease": "20/07/2019",
+    "description": "This shoe is so rad that it was brought back to life from the past so that you can wear it yourself. Consider that a sign.\n\n* Canvas\n* Rubber sole\n* Featuring sturdy canvas and suede uppers\n* Signature waffle rubber outsoles\n* Padded collar and heel counters for all-day comfort, support * and flexibility\n* Legendary lace-up high top",
+    "gender": [
+      "male",
+      "female",
+      "child",
+      "unisex"
+    ],
+    "dateOfCreation": "",
+    "editOfTheResource": ""
+  }
+]
