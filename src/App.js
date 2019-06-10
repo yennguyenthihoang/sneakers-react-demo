@@ -4,6 +4,10 @@ import NavBar from './NavBar/NavBar';
 import Sneaker from './Sneaker/Sneaker';
 import Sneakers from './Sneakers/Sneakers';
 import Brand from './Brand/Brand';
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { faSearch } from '@fortawesome/free-solid-svg-icons'
+
+library.add(faSearch)
 
 class App extends Component {
   render() {

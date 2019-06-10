@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import {Link} from 'react-router-dom';
+import Image from 'react-image';
 import axios from 'axios';
 
 class Sneaker extends Component {
