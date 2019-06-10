@@ -48,6 +48,12 @@ class Sneaker extends Component {
         <div className="row col-sm-12 col-md-12 col-lg-12">
           <h4 className="font-weight-bold">Product details:</h4>
           <p className="card-text">{sneaker.description}</p>
+          <div className="row col-sm-12 col-md-4 col-lg-4">
+            <p className="card-text"><b>Other informations: </b></p><br></br>
+            <p className="card-text"><b>Date of release: </b>{sneaker.dateOfRelease} $</p><br></br>
+            <p className="card-text"><b>Date of creation: </b>{sneaker.dateOfCreation}</p><br></br>
+            <p className="card-text"><b>Date of editing of the resource:  </b>{sneaker.editOfTheResource}</p>
+          </div>
         </div>
       </div>
     )
